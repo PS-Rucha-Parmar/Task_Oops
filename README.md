@@ -41,7 +41,6 @@ Build a beginner-friendly Java application that demonstrates core OOP concepts:
 - Interface : Command Line Interface (CLI)
 - Input     : Scanner class
 - Storage   : ArrayList (in-memory, no database)
-- IDE       : Any Java-supported IDE (IntelliJ IDEA, Eclipse, VS Code)
 
 ---
 
