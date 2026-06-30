@@ -295,6 +295,6 @@ Item added successfully!
 ## Author
 
 Name    : Rucha Parmar  
-Course  : Object-Oriented Programming  
-College : [College Name]  
-Year    : Second Year Engineering
+Task of : Oops  
+College :  Charusat University
+Year    : Fourth Year Engineering
